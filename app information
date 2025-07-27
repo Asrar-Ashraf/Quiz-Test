@@ -1,0 +1,27 @@
+Java Quiz App
+This is a console-based Quiz Application developed in Java. The app allows users to attempt multiple-choice questions, calculate their results, and view the answer key at the end.
+It also includes features like file saving.
+
+ Features:
+🔀 Randomly shuffled questions on every run
+
+📝 Multiple-choice questions with user input
+
+✔️ Answer validation and result calculation
+
+📄 Automatically displays the correct answer key
+
+💾 Saves questions and answers to a text file
+
+🧑‍💻 How It Works:
+The user is asked a series of multiple-choice questions.
+
+Each question is presented one by one.
+
+At the end, the program shows the number of correct answers and the full answer key.
+
+All data is optionally written to a file for record keeping.
+
+Muhammad Asrar
+📧 (masrarashraf@gmail.con)
+

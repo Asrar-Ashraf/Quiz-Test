@@ -29,5 +29,6 @@ public class Main {
        test.question20();
        test.QuizResult();
        test.saveInFile();
+    System.out.println("i Covered Common Feature if any add more feature in this please welcome!");
     }
 }
